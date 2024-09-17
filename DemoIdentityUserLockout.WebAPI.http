@@ -1,0 +1,6 @@
+@DemoIdentityUserLockout.WebAPI_HostAddress = http://localhost:5279
+
+GET {{DemoIdentityUserLockout.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
